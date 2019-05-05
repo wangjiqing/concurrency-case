@@ -12,7 +12,7 @@ import java.util.concurrent.atomic.AtomicLong;
 
 @Slf4j
 @ThreadSafe
-public class CountExample2 {
+public class AtomicExample2 {
 
     // 请求总数
     public static int clientTotal = 5000;

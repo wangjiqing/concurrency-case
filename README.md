@@ -7,4 +7,6 @@
 5. [测试并发访问初体验使用controller](src/main/java/com/sakura/concurrencycase/controller/TestController.java)
 6. [线程不安全的代码一](src/main/java/com/sakura/concurrencycase/ConcurrencyTest.java)
 7. [使用Atomic改造线程不安全的代码实现](src/main/java/com/sakura/concurrencycase/example/count/CountExample2.java)
-8. [使用LongAdder改造线程不安全的代码实现](src/main/java/com/sakura/concurrencycase/example/atomic/CountExample3.java)
+8. [使用LongAdder改造线程不安全的代码实现](src/main/java/com/sakura/concurrencycase/example/atomic/AtomicExample3.java)
+9. [使用AtomicReference实例](src/main/java/com/sakura/concurrencycase/example/atomic/AtomicExample4.java)
+10 [使用AtomicIntegerFieldUpdater实例](src/main/java/com/sakura/concurrencycase/example/atomic/AtomicExample5.java)
