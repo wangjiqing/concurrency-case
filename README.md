@@ -12,3 +12,4 @@
 10. [使用AtomicIntegerFieldUpdater实例](src/main/java/com/sakura/concurrencycase/example/atomic/AtomicExample5.java)
 11. [使用AtomicLongArray实例](src/main/java/com/sakura/concurrencycase/example/atomic/AtomicExample6.java)
 12. [使用AtomicBoolean实例](src/main/java/com/sakura/concurrencycase/example/atomic/AtomicExample7.java)
+13. [使用Synchronized实例](src/main/java/com/sakura/concurrencycase/example/sync/SynchronizedExample1.java)
