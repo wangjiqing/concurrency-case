@@ -10,3 +10,4 @@
 8. [使用LongAdder改造线程不安全的代码实现](src/main/java/com/sakura/concurrencycase/example/atomic/AtomicExample3.java)
 9. [使用AtomicReference实例](src/main/java/com/sakura/concurrencycase/example/atomic/AtomicExample4.java)
 10 [使用AtomicIntegerFieldUpdater实例](src/main/java/com/sakura/concurrencycase/example/atomic/AtomicExample5.java)
+11 [使用AtomicLongArray实例](src/main/java/com/sakura/concurrencycase/example/atomic/AtomicExample6.java)
