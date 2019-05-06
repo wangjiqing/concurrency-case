@@ -45,3 +45,5 @@
 43. [ConcurrentSkipListSet并发容器保证线程安全的使用案例](src/main/java/com/sakura/concurrencycase/example/concurrent/ConcurrentSkipListSetExample.java)
 44. [ConcurrentHashMap并发容器保证线程安全的使用案例](src/main/java/com/sakura/concurrencycase/example/concurrent/ConcurrentHashMapExample.java)
 45. [ConcurrentSkipListMap并发容器保证线程安全的使用案例](src/main/java/com/sakura/concurrencycase/example/concurrent/ConcurrentSkipListMapExample.java)
+46. [CountDownLatch闭锁的使用示例一](src/main/java/com/sakura/concurrencycase/example/aqs/CountDownLatchExample1.java)
+47. [CountDownLatch闭锁的使用示例二：](src/main/java/com/sakura/concurrencycase/example/aqs/CountDownLatchExample2.java) 
