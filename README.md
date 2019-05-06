@@ -37,3 +37,6 @@
 35. [Vector的线程安全使用场景，Vector并非线程安全容器](src/main/java/com/sakura/concurrencycase/example/syncContainer/VectorExample1.java)
 36. [Vector的线程不安全使用场景](src/main/java/com/sakura/concurrencycase/example/syncContainer/VectorExample2.java)
 37. [HashTable线程安全使用实例](src/main/java/com/sakura/concurrencycase/example/syncContainer/HashTableExample.java)
+38. [ArrayList同步容器的线程安全的使用案例](src/main/java/com/sakura/concurrencycase/example/syncContainer/CollectionsExample1.java)
+39. [HashSet同步容器的线程安全的使用案例](src/main/java/com/sakura/concurrencycase/example/syncContainer/CollectionsExample2.java)
+40. [HashMap同步容器的线程安全的使用案例](src/main/java/com/sakura/concurrencycase/example/syncContainer/CollectionsExample3.java)
