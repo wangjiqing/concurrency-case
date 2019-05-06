@@ -17,3 +17,4 @@
 15. [使用Synchronized改造线程不安全的代码实现](src/main/java/com/sakura/concurrencycase/example/count/CountExample3.java)
 16. [使用volatile改造线程不安全的代码实现 - 证明依旧线程不安全](src/main/java/com/sakura/concurrencycase/example/count/CountExample4.java)
 17. [线程不安全发布一个对象示例](src/main/java/com/sakura/concurrencycase/example/publish/UnsafePublish.java)
+18. [模拟对象逸出示例（线程不安全），不推荐的写法](src/main/java/com/sakura/concurrencycase/example/publish/Escape.java)
