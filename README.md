@@ -26,3 +26,4 @@
 24. [使用静态代码块改造：饿汉式单例模式](src/main/java/com/sakura/concurrencycase/example/singleton/SingletonExample6.java)
 25. [使用枚举类实现单例模式：推荐、线程安全](src/main/java/com/sakura/concurrencycase/example/singleton/SingletonExample7.java)
 26. [final关键字修饰变量](src/main/java/com/sakura/concurrencycase/example/immutable/ImmutableExample1.java)
+27. [ThreadLocal在Spring Boot项目中的应用](src/main/java/com/sakura/concurrencycase/example/threadLocal/RequestHolder.java)
