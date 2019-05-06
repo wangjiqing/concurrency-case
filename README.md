@@ -23,3 +23,5 @@
 21. [不推荐的改造: 懒汉式单例模式](src/main/java/com/sakura/concurrencycase/example/singleton/SingletonExample3.java)
 22. [双重检验锁改造（线程不安全）：懒汉式单例模式](src/main/java/com/sakura/concurrencycase/example/singleton/SingletonExample4.java)
 23. [双重校验锁+volatile改造（线程安全）：懒汉式单例模式](src/main/java/com/sakura/concurrencycase/example/singleton/SingletonExample5.java)
+24. [使用静态代码块改造：饿汉式单例模式](src/main/java/com/sakura/concurrencycase/example/singleton/SingletonExample6.java)
+25. [使用枚举类实现单例模式：推荐、线程安全](src/main/java/com/sakura/concurrencycase/example/singleton/SingletonExample7.java)
