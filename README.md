@@ -31,3 +31,6 @@
 29. [StringBuffer线程安全的实现](src/main/java/com/sakura/concurrencycase/example/commonUnSafe/StringExample2.java)
 30. [SimpleDateFormat线程安全的实现](src/main/java/com/sakura/concurrencycase/example/commonUnSafe/DateFormatExample1.java)
 31. [JodaTime线程安全的实现](src/main/java/com/sakura/concurrencycase/example/commonUnSafe/DateFormatExample2.java)
+32. [ArrayList的线程不安全的实例](src/main/java/com/sakura/concurrencycase/example/commonUnSafe/ArrayListExample.java)
+33. [HashSet的线程不安全的实例](src/main/java/com/sakura/concurrencycase/example/commonUnSafe/HashSetExample.java)
+34. [HashMap的线程不安全的实例](src/main/java/com/sakura/concurrencycase/example/commonUnSafe/HashMapExample.java)
