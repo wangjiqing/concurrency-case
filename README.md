@@ -18,3 +18,8 @@
 16. [使用volatile改造线程不安全的代码实现 - 证明依旧线程不安全](src/main/java/com/sakura/concurrencycase/example/count/CountExample4.java)
 17. [线程不安全发布一个对象示例](src/main/java/com/sakura/concurrencycase/example/publish/UnsafePublish.java)
 18. [模拟对象逸出示例（线程不安全），不推荐的写法](src/main/java/com/sakura/concurrencycase/example/publish/Escape.java)
+19. [懒汉式单例模式：单例实例会在第一次调用的时候创建](src/main/java/com/sakura/concurrencycase/example/singleton/SingletonExample1.java)
+20. [饿汉式单例模式：单例实例会在类装载的时候创建](src/main/java/com/sakura/concurrencycase/example/singleton/SingletonExample2.java)
+21. [不推荐的改造: 懒汉式单例模式](src/main/java/com/sakura/concurrencycase/example/singleton/SingletonExample3.java)
+22. [双重检验锁改造（线程不安全）：懒汉式单例模式](src/main/java/com/sakura/concurrencycase/example/singleton/SingletonExample4.java)
+23. [双重校验锁+volatile改造（线程安全）：懒汉式单例模式](src/main/java/com/sakura/concurrencycase/example/singleton/SingletonExample5.java)
