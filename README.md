@@ -46,4 +46,7 @@
 44. [ConcurrentHashMap并发容器保证线程安全的使用案例](src/main/java/com/sakura/concurrencycase/example/concurrent/ConcurrentHashMapExample.java)
 45. [ConcurrentSkipListMap并发容器保证线程安全的使用案例](src/main/java/com/sakura/concurrencycase/example/concurrent/ConcurrentSkipListMapExample.java)
 46. [CountDownLatch闭锁的使用示例一](src/main/java/com/sakura/concurrencycase/example/aqs/CountDownLatchExample1.java)
-47. [CountDownLatch闭锁的使用示例二：](src/main/java/com/sakura/concurrencycase/example/aqs/CountDownLatchExample2.java) 
+47. [CountDownLatch闭锁的使用示例二](src/main/java/com/sakura/concurrencycase/example/aqs/CountDownLatchExample2.java) 
+48. [Semaphore信号量的使用示例一](src/main/java/com/sakura/concurrencycase/example/aqs/SemaphoreExample1.java)
+49. [Semaphore信号量的使用示例二](src/main/java/com/sakura/concurrencycase/example/aqs/SemaphoreExample2.java)
+50. [Semaphore信号量的使用示例三](src/main/java/com/sakura/concurrencycase/example/aqs/SemaphoreExample3.java)
