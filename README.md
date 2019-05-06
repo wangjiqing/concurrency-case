@@ -16,3 +16,4 @@
 14. [使用Synchronized实例 - 修饰静态方法 & 类](src/main/java/com/sakura/concurrencycase/example/sync/SynchronizedExample2.java)
 15. [使用Synchronized改造线程不安全的代码实现](src/main/java/com/sakura/concurrencycase/example/count/CountExample3.java)
 16. [使用volatile改造线程不安全的代码实现 - 证明依旧线程不安全](src/main/java/com/sakura/concurrencycase/example/count/CountExample4.java)
+17. [线程不安全发布一个对象示例](src/main/java/com/sakura/concurrencycase/example/publish/UnsafePublish.java)
