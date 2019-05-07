@@ -57,3 +57,5 @@
 53. [ReentrantReadWriteLock的使用实例](src/main/java/com/sakura/concurrencycase/example/lock/LockExample2.java)
 54. [StampedLock的使用实例](src/main/java/com/sakura/concurrencycase/example/lock/LockExample3.java)
 55. [Condition的使用实例](src/main/java/com/sakura/concurrencycase/example/lock/LockExample3.java)
+56. [Future获取线程执行返回值的使用实例](src/main/java/com/sakura/concurrencycase/example/aqs/FutureExample.java)
+56. [FutureTask获取线程执行返回值的使用实例](src/main/java/com/sakura/concurrencycase/example/aqs/FutureTaskExample.java)
