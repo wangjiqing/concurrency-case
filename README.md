@@ -50,3 +50,6 @@
 48. [Semaphore信号量的使用示例一](src/main/java/com/sakura/concurrencycase/example/aqs/SemaphoreExample1.java)
 49. [Semaphore信号量的使用示例二](src/main/java/com/sakura/concurrencycase/example/aqs/SemaphoreExample2.java)
 50. [Semaphore信号量的使用示例三](src/main/java/com/sakura/concurrencycase/example/aqs/SemaphoreExample3.java)
+51. [CyclicBarrier同步屏障使用示例一](src/main/java/com/sakura/concurrencycase/example/aqs/CyclicBarrierExample1.java)
+52. [CyclicBarrier同步屏障使用示例二：设置屏障等待超时时间](src/main/java/com/sakura/concurrencycase/example/aqs/CyclicBarrierExample2.java)
+51. [CyclicBarrier同步屏障使用示例三：设置等待完成前置执行一段代码块](src/main/java/com/sakura/concurrencycase/example/aqs/CyclicBarrierExample3.java)
