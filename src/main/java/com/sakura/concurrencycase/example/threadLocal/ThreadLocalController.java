@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 @Controller
-@RequestMapping("/t")
+@RequestMapping("/threadLocal")
 public class ThreadLocalController {
 
     @RequestMapping("/test")

@@ -53,3 +53,4 @@
 51. [CyclicBarrier同步屏障使用示例一](src/main/java/com/sakura/concurrencycase/example/aqs/CyclicBarrierExample1.java)
 52. [CyclicBarrier同步屏障使用示例二：设置屏障等待超时时间](src/main/java/com/sakura/concurrencycase/example/aqs/CyclicBarrierExample2.java)
 51. [CyclicBarrier同步屏障使用示例三：设置等待完成前置执行一段代码块](src/main/java/com/sakura/concurrencycase/example/aqs/CyclicBarrierExample3.java)
+52. [Lock的使用实例](src/main/java/com/sakura/concurrencycase/example/lock/LockExample1.java)
